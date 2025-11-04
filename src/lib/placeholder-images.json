@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A dynamic hero image representing innovation and launch.",
+      "imageUrl": "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxyb2NrZXQlMjBsYXVuY2h8ZW58MHx8fHwxNzYyMjQ3NjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rocket launch"
+    },
+    {
+      "id": "dog-muzzle",
+      "description": "A breathable and comfortable mesh muzzle for a dog.",
+      "imageUrl": "https://storage.googleapis.com/project-spark-312151624445/vision_service/images/73f0c326-e918-4721-a4b5-b7781b0a7c4f_0.jpg",
+      "imageHint": "dog muzzle"
+    },
+    {
+      "id": "product-showcase-1",
+      "description": "Screenshot of the product's main dashboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1759661966728-4a02e3c6ed91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkYXNoYm9hcmQlMjBhbmFseXRpY3N8ZW58MHx8fHwxNzYyMjA5NTY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard analytics"
+    },
+    {
+      "id": "product-showcase-2",
+      "description": "A screen showing team collaboration features.",
+      "imageUrl": "https://images.unsplash.com/photo-1492366254240-43affaefc3e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0ZWFtJTIwY29sbGFib3JhdGlvbnxlbnwwfHx8fDE3NjIyNzQ3Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "product-showcase-3",
+      "description": "The product running on a mobile device.",
+      "imageUrl": "https://images.unsplash.com/photo-1558655146-364adaf1fcc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bW9iaWxlJTIwYXBwfGVufDB8fHx8MTc2MjI2OTI0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mobile app"
+    },
+    {
+      "id": "avatar-1",
+      "description": "Avatar for a customer testimonial.",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzYyMTkwMjI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Avatar for a customer testimonial.",
+      "imageUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBidXNpbmVzc3xlbnwwfHx8fDE3NjIyNzU2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man business"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Avatar for a customer testimonial.",
+      "imageUrl": "https://images.unsplash.com/photo-1616444523858-99b9acbdfcda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjB0ZWNofGVufDB8fHx8MTc2MjI4NTY4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person tech"
+    },
+    {
+      "id": "company-logo",
+      "description": "Ohnso company logo",
+      "imageUrl": "https://storage.googleapis.com/project-spark-312151624445/cdn/images/ohnso-logo.png",
+      "imageHint": "company logo"
+    }
+  ]
+}
